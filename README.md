@@ -7,4 +7,4 @@
 - As a user, I can mark a task complete.
 - As a user, I can sort my tasks.
 - As a user, I can add categories.
-- As a user, I can due/date.
+- As a user, I can due/date. 
